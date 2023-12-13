@@ -22,7 +22,7 @@ x = np.zeros(n)
 ### Step4:
 Populate the augmented matrix with input values:                    
 for i in range(n):   
-  for j in range(n+1):    
+    for j in range(n+1):    
         matrix[i][j] = int(input())
 ### Step5:
 Check for divide by zero error and exit if necessary:     
