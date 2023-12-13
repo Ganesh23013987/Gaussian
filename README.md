@@ -88,7 +88,8 @@ for i in range(n):
 ```
 
 ## Output:
-![Alt text](gaussian.png)
+<img width="734" alt="gaussian" src="https://github.com/Ganesh23013987/Gaussian/assets/147473768/6510d023-d197-457b-a699-ff4508922b73">
+
 
 
 ## Result:
